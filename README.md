@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://github.com/Fernanda1701/e-commerce-bookstore-angular">Bookstore 📚</a>
 </h1>
-<p align="center">Frontend de e-commerce de livros em Angular e API em Node e Express</p>
+<p align="center">Frontend de e-commerce de livros em <b><i>Angular</b></i> e API em <b><i>Node</b></i> e <b><i>Express</b></i></p>
 
 <h2 align="center">
 <img src="https://img.shields.io/static/v1?label=Status:&message=Completo ✅&color=32CD32&style=for-the-badge&logo=ghost"/>
@@ -16,12 +16,12 @@
 
 ## 💎 Sobre
 
-O projeto foi desenvolvido para consolidar habilidades em Angular. A proposta é a criação de um frontend em Angular que consuma uma API de livros
+O projeto foi desenvolvido para consolidar habilidades em <b><i>Angular</b></i>. A proposta é a criação de um frontend em <b><i>Angular</b></i> que <b>consuma</b> uma API de livros
 e os exiba em cards.
 
 <h3>Funcionamento</h3>
 
-O App <b>Bookstore</b> é um site de e-commerce com seu frontend em <b><i>Angular</b></i> que consome uma API feita em Node e Express. Na API temos as 
+O App <b>Bookstore</b> é um site de e-commerce com seu frontend em <b><i>Angular</b></i> que consome uma API feita em <b><i>Node</b></i> e <b><i>Express</b></i>. Na API temos as 
 seguintes informações:
 
 - [x] Id
