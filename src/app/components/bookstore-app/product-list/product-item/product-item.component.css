@@ -1,0 +1,19 @@
+.card-box{
+    margin: 10px;
+}
+
+.card-img{
+    width: 250px;
+    height: 350px;
+    padding: 30px;
+    align-self: center;
+}
+
+.card-name{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-btn{
+    margin: 10px 35px;
+}
